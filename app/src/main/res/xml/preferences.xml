@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:iconSpaceReserved="false">
+
+
+        <SwitchPreference
+            android:key="@string/key_reminder"
+            android:title="@string/set_reminder"
+            android:summary="@string/reminder"
+            android:icon="@drawable/ic_access_time_white_24dp" />
+
+        <Preference
+            android:key="@string/key_language"
+            android:icon="@drawable/ic_language_green_24dp"
+            android:title="@string/change_language">
+                <intent android:action="android.intent.action.VIEW"
+                    android:data="Settings.ACTION_LOCALE_SETTINGS"/>
+        </Preference>
+
+</PreferenceScreen>

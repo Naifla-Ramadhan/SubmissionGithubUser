@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmissionGithubUser</string>
+    <string name="username">nama pengguna</string>
+    <string name="company">perusahaan</string>
+    <string name="search">cari</string>
+    <string name="search_hint">Masukkan teks</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="favorite">Meyukai</string>
+    <string name="change_language_setting">Ubah Pengaturan Bahasa</string>
+    <string name="repos">Repos</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="set_reminder">Atur Pengingat</string>
+    <string name="reminder">Pukul 9.00 Pagi</string>
+
+    <string name="switch_reminder">switch_reminder</string>
+    <string name="key_reminder">key_reminder</string>
+    <string name="key_language">key_language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
